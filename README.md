@@ -12,7 +12,6 @@ A Streamlit-based resume evaluation tool that uses Google Gemini generative AI t
 - `helper.py` - contains PDF extraction, prompt generation, and Gemini response handling
 - `back.jpg` - optional background image file
 - `requirements.txt` - Python package dependencies
-- `required.txt` - legacy dependency list
 - `.gitignore` - ignores local environment files, virtualenv, and caches
 
 ## Setup
